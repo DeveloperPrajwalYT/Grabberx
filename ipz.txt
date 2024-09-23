@@ -1,6 +1,0 @@
-/
-├── public/
-│   └── index.html  # Contains the blank HTML page
-├── ipz.txt         # The file where IP addresses are logged
-├── server.js       # Node.js server handling IP logging
-├── package.json    # Node.js package information
